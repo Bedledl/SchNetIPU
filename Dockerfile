@@ -1,4 +1,4 @@
-FROM docker.io/graphcore/pytorch:3.2.0
+FROM docker.io/graphcore/pytorch-geometric:3.2.0
 
 COPY requirements.txt /opt/requirements.txt
 
